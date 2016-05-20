@@ -67,7 +67,7 @@
         <div class="col s4">
           <div class="card-panel teal">
             <img src="https://scontent.felp1-1.fna.fbcdn.net/v/t1.0-9/10308215_1061013697283679_8456459418784187016_n.jpg?oh=d9c5b9e3719f6d663d195a9071d04cbc&oe=57A8B0A3" alt="" class="circle responsive-img">
-            <font color="white">Octavio Cuevas</font>
+            <font color="white">Octavio Cuevas Conde</font>
           </div>
         </div>
         <div class="col s4">
