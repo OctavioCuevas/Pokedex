@@ -1,0 +1,74 @@
+db.Pokedex.insert({
+numero: 1,
+nombre: 'BULBASAUR',
+tipos: ['PLANTA','VENENO'],
+evolucion: 'IVYSAUR',
+imagen: 'http://vignette4.wikia.nocookie.net/es.pokemon/images/4/43/Bulbasaur.png/revision/latest/scale-to-width-down/200?cb=20150621181023'
+});
+
+db.Pokedex.insert({
+numero: 2,
+nombre: 'IVYSAUR',
+tipos: ['PLANTA','VENENO'],
+evolucion: 'VENASAUR',
+imagen: 'http://vignette3.wikia.nocookie.net/es.pokemon/images/8/86/Ivysaur.png/revision/latest/scale-to-width-down/200?cb=20140207202404'
+});
+
+db.Pokedex.insert({
+numero: 3,
+nombre: 'VENASAUR',
+tipos: ['PLANTA','VENENO'],
+evolucion: 'N/A',
+imagen: 'http://vignette2.wikia.nocookie.net/es.pokemon/images/b/be/Venusaur.png/revision/latest/scale-to-width-down/200?cb=20160309230456'
+});
+
+db.Pokedex.insert({
+numero: 4,
+nombre: 'CHARMANDER',
+tipos: ['FUEGO','N/A'],
+evolucion: 'CHARMELEON',
+imagen: 'http://vignette1.wikia.nocookie.net/es.pokemon/images/5/56/Charmander.png/revision/latest/scale-to-width-down/200?cb=20140207202456'
+});
+
+db.Pokedex.insert({
+numero: 5,
+nombre: 'CHARMALEON',
+tipos: ['FUEGO','N/A'],
+evolucion: 'CHARIZARD',
+imagen: 'http://images.wikia.com/es.pokemon/images/e/ef/Charmeleon_en_la_primera_generaci%C3%B3n.png'
+});
+
+db.Pokedex.insert({
+numero: 6,
+nombre: 'CHARIZARD',
+tipos: ['FUEGO','VOLADOR'],
+evolucion: 'N/A',
+imagen: 'http://vignette2.wikia.nocookie.net/es.pokemon/images/9/95/Charizard.png/revision/latest/scale-to-width-down/200?cb=20150621180752'
+});
+
+db.Pokedex.insert({
+numero: 7,
+nombre: 'SQUIRTLE',
+tipos: ['AGUA','N/A'],
+evolucion: 'WARTORTLE',
+imagen: 'http://images.wikia.com/es.pokemon/images/9/9a/Squirtle_en_la_primera_generaci%C3%B3n.png'
+});
+
+db.Pokedex.insert({
+numero: 8,
+nombre: 'WARTORTLE',
+tipos: ['AGUA','N/A'],
+evolucion: 'BLASTOISE',
+imagen: 'http://vignette2.wikia.nocookie.net/es.pokemon/images/d/d7/Wartortle.png/revision/latest/scale-to-width-down/200?cb=20140207202657'
+});
+
+db.Pokedex.insert({
+numero: 9,
+nombre: 'BLASTOISE',
+tipos: ['AGUA','N/A'],
+evolucion: 'N/A',
+imagen: 'http://images.wikia.com/es.pokemon/images/4/41/Blastoise.png'
+});
+
+
+
